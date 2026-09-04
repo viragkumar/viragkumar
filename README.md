@@ -1,4 +1,7 @@
-# Virag | Software Test Automation & Performance QA Architect
+# Virag Kumar
+**Software Test Automation & Performance QA Architect**
+
+
 Experienced QA Engineer specializing in end-to-end test automation, mobile testing, API testing, performance testing, and CI/CD pipeline integration.
 
 ---
