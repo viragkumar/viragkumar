@@ -1,8 +1,5 @@
-# 👋 from - Virag
-
-I work as **Software Test Automation Engineer & Performance Engineer**
-
-Experienced QA Engineer specializing in end-to-end test automation, mobile testing, performance testing, and CI/CD pipeline integration.
+# Virag | Software Test Automation & Performance QA Architect
+Experienced QA Engineer specializing in end-to-end test automation, mobile testing, API testing, performance testing, and CI/CD pipeline integration.
 
 ---
 
